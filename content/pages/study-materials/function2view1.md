@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: 'Riemann Surfaces: f(z)=log((z+1)/(z-1)) View 1'
+type: CourseSection
 uid: f6a133ec-d77b-5d45-2e5d-6d96fc28939d
 ---
 

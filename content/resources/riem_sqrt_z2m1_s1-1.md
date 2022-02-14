@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: riem_sqrt_Z2m1_s1.GIF
+type: OCWImage
 uid: 8976bd4f-bd8e-5496-a35d-541ad1cdc5fd
 ---

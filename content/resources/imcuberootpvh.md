@@ -8,7 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: ImCubeRootPVH.GIF
+type: OCWImage
 uid: 3b1cf923-3989-44e2-654d-398edaa49aca
 ---

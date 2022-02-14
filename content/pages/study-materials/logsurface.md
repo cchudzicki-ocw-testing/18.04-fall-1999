@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: 'Riemann Surfaces: The Logarithm Expanded View'
+type: CourseSection
 uid: fa961a6f-23da-78f0-e5d0-612e0f304921
 ---
 

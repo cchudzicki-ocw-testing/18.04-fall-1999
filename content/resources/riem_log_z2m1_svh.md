@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Image
 title: riem_log_Z2m1_svH.GIF
+type: OCWImage
 uid: 4e642173-3c24-0272-3cda-8fc8fdccbfdf
 ---

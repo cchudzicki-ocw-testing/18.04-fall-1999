@@ -8,7 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: ReCubeRootPVH.GIF
+type: OCWImage
 uid: 38241b4f-51d4-615d-f94d-343208a83f9f
 ---

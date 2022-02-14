@@ -3,7 +3,12 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-04-complex-variables-with-applications-fall-1999/1db3f5cdd4e3ec3c746ad4afbfaef37e_ProblemSet_3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ProblemSet_3.pdf
+type: OCWFile
 uid: 1db3f5cd-d4e3-ec3c-746a-d4afbfaef37e
 ---

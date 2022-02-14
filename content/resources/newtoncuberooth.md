@@ -8,7 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: NewtonCubeRootH.GIF
+type: OCWImage
 uid: 37f191be-1d3f-cb79-9210-680825a78e83
 ---
