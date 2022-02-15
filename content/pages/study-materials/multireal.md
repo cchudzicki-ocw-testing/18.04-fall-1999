@@ -5,7 +5,6 @@ parent_title: Study Materials
 parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: 'Multiple Valued Functions: Real'
-type: CourseSection
 uid: ddec2f32-a466-931f-457a-1053e9957638
 ---
 

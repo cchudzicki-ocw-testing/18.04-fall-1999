@@ -13,6 +13,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Image
 title: riem_log_1mSqrt_Z_aH.GIF
-type: OCWImage
 uid: dae181d2-507e-18ae-dfad-732e82a616a2
 ---

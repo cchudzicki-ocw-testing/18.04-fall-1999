@@ -5,7 +5,6 @@ parent_title: Study Materials
 parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: Branch Cuts and Branches
-type: CourseSection
 uid: 2f8fa18d-fac0-85df-46c6-ac5303441bc6
 ---
 

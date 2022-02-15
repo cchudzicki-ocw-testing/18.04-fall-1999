@@ -12,6 +12,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Image
 title: ReCubeRootPV.GIF
-type: OCWImage
 uid: 5c7cca7d-e77f-770a-2575-801445f44045
 ---

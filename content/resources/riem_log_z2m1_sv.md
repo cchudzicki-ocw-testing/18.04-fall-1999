@@ -13,6 +13,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Image
 title: riem_log_Z2m1_sv.GIF
-type: OCWImage
 uid: 7079fc81-c69b-987e-394c-bcd75cb02665
 ---

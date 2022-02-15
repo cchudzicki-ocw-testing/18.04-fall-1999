@@ -5,7 +5,6 @@ parent_title: Study Materials
 parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: 'Riemann Surfaces: The Square Root View 1'
-type: CourseSection
 uid: b18a689a-c234-ef42-9258-bd5bb11d544b
 ---
 

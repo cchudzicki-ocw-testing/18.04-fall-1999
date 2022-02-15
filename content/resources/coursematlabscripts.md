@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Document
 title: CourseMatLabscripts.pdf
-type: OCWFile
 uid: 18489ea5-c3a6-42f4-0f0e-901a6fe64aa2
 ---

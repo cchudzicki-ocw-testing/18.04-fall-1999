@@ -12,6 +12,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Image
 title: ImCubeRootPV.GIF
-type: OCWImage
 uid: f2392800-de97-7957-0571-0d6e006b6221
 ---

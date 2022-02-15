@@ -5,7 +5,6 @@ parent_title: Study Materials
 parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: 'Riemann Surfaces: f(z)=log(z2-1) View 2'
-type: CourseSection
 uid: 00c1b489-cd9f-d388-a876-fde06b1f4edd
 ---
 

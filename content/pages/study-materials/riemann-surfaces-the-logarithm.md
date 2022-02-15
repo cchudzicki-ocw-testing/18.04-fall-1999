@@ -5,7 +5,6 @@ parent_title: Study Materials
 parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: 'Riemann Surfaces: The Logarithm'
-type: CourseSection
 uid: 5b6520ec-2d16-2322-e8ae-23e673906451
 ---
 

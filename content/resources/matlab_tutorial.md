@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Document
 title: MatLab_Tutorial.pdf
-type: OCWFile
 uid: 433579a8-787b-458c-b8d4-dc320b350350
 ---

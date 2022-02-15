@@ -12,6 +12,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Image
 title: riem_log_Z.GIF
-type: OCWImage
 uid: 5a595dbf-2ce8-937c-29ed-01a886da7aeb
 ---

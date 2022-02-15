@@ -13,6 +13,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Image
 title: riem_sqrt_Z_bvH.GIF
-type: OCWImage
 uid: 6e2b7c1a-3e29-1db3-7bd7-365c955b002a
 ---

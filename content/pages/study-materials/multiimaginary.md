@@ -5,7 +5,6 @@ parent_title: Study Materials
 parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: 'Multiple Valued Functions: Imaginary'
-type: CourseSection
 uid: 797bd6d8-a21c-c74d-b145-97bbb00827c3
 ---
 

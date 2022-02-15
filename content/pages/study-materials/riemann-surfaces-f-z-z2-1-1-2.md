@@ -5,7 +5,6 @@ parent_title: Study Materials
 parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: 'Riemann Surfaces: f(z)=(z2-1)1/2'
-type: CourseSection
 uid: 0a09263f-fad3-aec9-7244-51fb154459a8
 ---
 

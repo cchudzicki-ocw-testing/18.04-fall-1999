@@ -5,7 +5,6 @@ parent_title: Study Materials
 parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: 'Branch Cuts and Branches: Imaginary'
-type: CourseSection
 uid: 03be228f-7502-0e43-8699-16a0b6de4aed
 ---
 

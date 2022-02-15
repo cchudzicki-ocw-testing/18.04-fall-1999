@@ -5,7 +5,6 @@ parent_title: Study Materials
 parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: Newton Iterations
-type: CourseSection
 uid: 6a099a2d-e914-5174-76d3-1c2ed52e5a36
 ---
 

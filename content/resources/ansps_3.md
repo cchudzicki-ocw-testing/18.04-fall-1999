@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: AnsPS_3.pdf
-type: OCWFile
 uid: 7051de3b-a358-9040-ca72-50791d77c79b
 ---
