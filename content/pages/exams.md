@@ -25,7 +25,7 @@ Exams
 Covering Week 1: Complex Numbers, 2: Analytic Functions, and (1/2) of 3: Complex Integration
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link d097a576-9ad4-7712-b992-f06252f94285 "PDF" >}})
+({{% resource_link d097a576-9ad4-7712-b992-f06252f94285 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +34,7 @@ Covering Week 1: Complex Numbers, 2: Analytic Functions, and (1/2) of 3: Complex
 Covering Week 3: Complex Integration, 4: Taylor and Laurent Series, and Reside Theory
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link a569e09a-8777-649d-6bb6-f49c272101fb "PDF" >}})
+({{% resource_link a569e09a-8777-649d-6bb6-f49c272101fb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +43,7 @@ Covering Week 3: Complex Integration, 4: Taylor and Laurent Series, and Reside T
 Covering Week 6: Fourier Series and Transformations and 7: Conformal Mapping
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link df23af3d-ee65-730b-b0f8-d2b4b04224b9 "PDF" >}})
+({{% resource_link df23af3d-ee65-730b-b0f8-d2b4b04224b9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
