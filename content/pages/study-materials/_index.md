@@ -5,7 +5,6 @@ ocw_type: CourseSection
 title: Study Materials
 uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 ---
-
 Newton Iterations
 -----------------
 
@@ -30,10 +29,10 @@ Riemann Surfaces
     
 *   {{% resource_link 91535a36-94cf-bccb-722b-8afe51c89d30 "Riemann Surfaces: the square root" %}}
     
-*   {{% resource_link 0a09263f-fad3-aec9-7244-51fb154459a8 "Riemann Surfaces: f(z)=(z{{< sup \"2\" %}}\-1){{< sup \"1/2\" >}}" >}}
+*   {{% resource_link 0a09263f-fad3-aec9-7244-51fb154459a8 "Riemann Surfaces: f(z)=(z{{< sup \"2\" >}}\-1){{< sup \"1/2\" >}}" %}}
     
 *   {{% resource_link cb450631-87a2-c7dc-85af-dde2b940fa82 "Riemann Surfaces: f(z)=log((z+1)/(z-1))" %}}
     
-*   {{% resource_link 89aebe0f-5482-4aa0-c917-54e1833c9aeb "Riemann Surfaces: f(z)=log(z{{< sup \"2\" %}}\-1)" >}}
+*   {{% resource_link 89aebe0f-5482-4aa0-c917-54e1833c9aeb "Riemann Surfaces: f(z)=log(z{{< sup \"2\" >}}\-1)" %}}
     
-*   {{% resource_link 4de21ae0-69e3-5630-5fd5-e87fa733f4cd "Riemann Surfaces: f(z)=log(1-z{{< sup \"1/2\" %}})" >}}
+*   {{% resource_link 4de21ae0-69e3-5630-5fd5-e87fa733f4cd "Riemann Surfaces: f(z)=log(1-z{{< sup \"1/2\" >}})" %}}
