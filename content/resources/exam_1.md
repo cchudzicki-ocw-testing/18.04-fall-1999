@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Exam_1.pdf
 uid: d097a576-9ad4-7712-b992-f06252f94285
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: AnsPS_3.pdf
 uid: 7051de3b-a358-9040-ca72-50791d77c79b
+video_metadata:
+  youtube_id: null
 ---

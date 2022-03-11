@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: 'Riemann Surfaces: f(z)=log((z+1)/(z-1)) View 2'
 uid: 82e40db7-f6b2-1a20-05a2-ceb553b7b710
+video_metadata:
+  youtube_id: null
 ---
 
 (All images created with MATLAB® software)

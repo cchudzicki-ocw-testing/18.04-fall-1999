@@ -16,4 +16,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: ImCubeRootH.GIF
 uid: 2c03b336-a047-c3c3-0c99-a67db10d13bd
+video_metadata:
+  youtube_id: null
 ---

@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: riem_sqrt_Z_sv.GIF
 uid: 4ee7633c-3c55-3955-8add-d0889bd17eb7
+video_metadata:
+  youtube_id: null
 ---

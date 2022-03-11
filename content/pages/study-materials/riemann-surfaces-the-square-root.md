@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: 'Riemann Surfaces: The Square Root'
 uid: 91535a36-94cf-bccb-722b-8afe51c89d30
+video_metadata:
+  youtube_id: null
 ---
 
 (All images created with MATLAB® software)

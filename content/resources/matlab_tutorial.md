@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: MatLab_Tutorial.pdf
 uid: 433579a8-787b-458c-b8d4-dc320b350350
+video_metadata:
+  youtube_id: null
 ---

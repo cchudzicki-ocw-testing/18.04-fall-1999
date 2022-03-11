@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Tools
 uid: c5c32e7f-a1b5-9d57-425a-fdc26b87de06
+video_metadata:
+  youtube_id: null
 ---
 
 MATLAB® Tutorial ({{% resource_link 433579a8-787b-458c-b8d4-dc320b350350 "PDF" %}})

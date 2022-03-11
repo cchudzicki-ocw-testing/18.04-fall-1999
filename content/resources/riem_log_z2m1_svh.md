@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: riem_log_Z2m1_svH.GIF
 uid: 4e642173-3c24-0272-3cda-8fc8fdccbfdf
+video_metadata:
+  youtube_id: null
 ---

@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: NewtonCubeRootH.GIF
 uid: 37f191be-1d3f-cb79-9210-680825a78e83
+video_metadata:
+  youtube_id: null
 ---

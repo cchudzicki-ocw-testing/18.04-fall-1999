@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: 33a665e8-7180-b033-3d75-933e3b2213ce
+video_metadata:
+  youtube_id: null
 ---
 
 [Comments on the Textbook](#comments)

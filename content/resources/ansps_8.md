@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: AnsPS_8.pdf
 uid: e1af32d3-8b05-a254-a01f-dedef63b2482
+video_metadata:
+  youtube_id: null
 ---

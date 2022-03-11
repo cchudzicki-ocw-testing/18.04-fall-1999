@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: ReCubeRoot.GIF
 uid: 05bcb290-edc1-d0dc-1ee9-543a2e2c3a84
+video_metadata:
+  youtube_id: null
 ---
