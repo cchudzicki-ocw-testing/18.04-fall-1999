@@ -20,5 +20,5 @@ Real part of the cubic root function on the complex plane. Notice how the three 
 
 Picture obtained using the script PlotCube in the Athena 18.04 MATLAB® Toolkit.
 
-{{< resource 7d006af3-ad2d-611b-4ee7-1b641d317dbb "Figure 1: Real part of the cube root on the complex plane" >}}  
+{{< resource "7d006af3-ad2d-611b-4ee7-1b641d317dbb" >}}  
 Figure 1: Real part of the cube root on the complex plane

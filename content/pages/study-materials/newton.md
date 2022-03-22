@@ -21,5 +21,5 @@ Basins of attraction for the three cubic roots of unity under iterations using N
 Picture obtained using the script NewtonRoots in the Athena 18.04 MATLAB® Toolkit.  
  
 
-{{< resource 37f191be-1d3f-cb79-9210-680825a78e83 "Newton's method of attraction basins for z^3=1." >}}  
+{{< resource "37f191be-1d3f-cb79-9210-680825a78e83" >}}  
 Figure 1: Newton's method of attraction basins for z{{< sup "3" >}}\=1.

@@ -16,7 +16,7 @@ In fact, the boundary has a self-similar fractal structure: any piece of it that
 
 (All images created with MATLAB® software)
 
-[{{< resource 3ed42554-fad1-1017-aa47-1b1cd962e42c "Figure 1: Newton's method of attraction basins for z3=1." >}}]({{< baseurl >}}/pages/study-materials/newton)
+[{{< resource "3ed42554-fad1-1017-aa47-1b1cd962e42c" >}}]({{< baseurl >}}/pages/study-materials/newton)
 
 Click on picture for more information and an image of higher resolution.
 
