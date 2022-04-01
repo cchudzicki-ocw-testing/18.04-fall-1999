@@ -11,12 +11,14 @@ uid: 4de21ae0-69e3-5630-5fd5-e87fa733f4cd
 video_metadata:
   youtube_id: null
 ---
-### Image ?links to `riemann-surfaces-f-z-log-1-z1-2`
+(All images  ?created with MATLAB® software)
+
+Click on picture for more information and an image of higher resolution.
 
 **Resource-wrapped link: (original)**
 
 ```c
-[{{</* resource "d76bb2ff-8097-4548-ca14-2acc42d17b0c"*/>}}](<span data-isclosing="false"  class="legacy-shortcode-baseurl"></span>/pages/study-materials/function4view1)  
+[{{</* resource "d76bb2ff-8097-4548-ca14-2acc42d17b0c"*/>}}]({{</* baseurl */>}}/pages/study-materials/function4view1)  
 ```
 
 \[
@@ -41,47 +43,28 @@ video_metadata:
 {{</* resource uuid="d76bb2ff-8097-4548-ca14-2acc42d17b0c" href="/courses/18-04-complex-variables-with-applications-fall-1999/pages/study-paterials/squareroot1" */>}}
 ```
 
-{{< resource uuid="d76bb2ff-8097-4548-ca14-2acc42d17b0c" href="/courses/18-04-complex-variables-with-applications-fall-1999/pages/study-paterials/riemann-surfaces-f-z-log-1-z1-2" >}}
+{{< resource uuid="d76bb2ff-8097-4548-ca14-2acc42d17b0c" href="/courses/18-04-complex-variables-with-applications-fall-1999/pages/study-paterials/squareroot1" >}}
 
-### Original content
+**The square root** provides another simple example of a **Riemann Surface.** The pictures here show two views of this surface, whose construction is explained next.
+
+woof {{% resource_link b18a689a-c234-ef42-9258-bd5bb11d544b "Test" %}} woof
+
+Consider again a Complex Plane cut along the negative real axis, just as in the case of the {{% resource_link 5b6520ec-2d16-2322-e8ae-23e673906451 "logarithm" %}}. However: instead of having infinitely many possible branches on this cut plane, we have now only two. These are given by the principal value of the square root and its negative (the principal value of the square root is defined in exactly the same fashion as the principal value of the cubic root was  {{% resource_link 2f8fa18d-fac0-85df-46c6-ac5303441bc6 "defined earlier" %}}). It would seem that this should lead to a surface simpler than that of the logarithm, but it actually does not.
 
 \[
 
-{{< resource uuid="d76bb2ff-8097-4548-ca14-2acc42d17b0c" >}}
+{{< resource uuid="f37f8ce9-c0f8-11fd-aa76-587611fa09a4" >}}
 
-\]({{< baseurl >}}/pages/study-materials/function4view1)
+\]({{< baseurl >}}/pages/study-materials/squareroot1)     
+Figure 1: One view of a square root Riemann Surface
 
  
 
-(All images created with MATLAB® software)
-
-Click on pictures for more information and an image of higher resolution.
+The reason is as follows: when joining the two cut planes to make the surface, we have to join the lower lip of the cut in one plane with the upper in the other (and conversely). But this cannot be done within three dimensional space, since once we join one pair of lips, the members of the other pair end up on different sides of the surface. To join this second pair, we must go into the "fourth dimension" (this is exactly the same sort of difficulty you would find if you try to make a knot in a curve while staying on a plane). What this all means is that: **the Riemann Surface for the square root is an object in four dimensional space**. In the pictures we have color coded the surface: at the (inevitable in three dimensions) crossings each of the two sheets that cross have a clearly distinct coloring (this is the best we could do with our 4-D coloring pens broken).
 
 \[
 
-{{< resource uuid="d76bb2ff-8097-4548-ca14-2acc42d17b0c" >}}
+{{< resource uuid="4ee7633c-3c55-3955-8add-d0889bd17eb7" >}}
 
-\]({{< baseurl >}}/pages/study-materials/function4view1)   
-Figure 1: Riemann Surface for the function f(z)=log(1-z{{< sup "1/2" >}})
-
- 
-
-The **Riemann Surface** for the function **f(z)=log(1-z**{{< sup "1/2" >}}**)** has a new feature not seen in any of the prior cases. Namely, in this case the **branch points are z=0, z=1 and infinity**. However, the **branch point at z=1 is peculiar**, since it is a **branch point only** when we take the value of z{{< sup "1/2" >}} as 1 for z=1 and it is not when we take this value to be -1. This means that there are **two distinct cut complex planes** that one must use in constructing the surface. **The first cut plane** could be taken as the plane with two cuts on the real axis (on x \< 0 and on x > 1) and corresponds to the case when z=1 is a branch point. There are infinitely many branches of the function on this cut plane, with their values differing by multiples of 2πi (depending on which branch of the logarithm one uses). Two views of the resulting typical **"Lego" surface block** are shown in Figures 1 & 2. To construct the Riemann Surface, we begin by taking infinitely many copies of this "Lego" block, stacking them one on top of the other and joining them across the matching edges of the branch cuts on x > 1 (in the pictures these edges are marked by thick lines in blue and red --- the joining is then done blue in one block to red in the next one). After this first step, we end up with a surface that is somewhat similar to the spiral staircase-like Riemann Surface that the {{% resource_link 5b6520ec-2d16-2322-e8ae-23e673906451 "logarithm function" %}} has, except for a "small" detail: at each level in the staircase, there is a gap left by the two lips of the branch cut on the negative real axis (marked in thick magenta and green lines in the pictures).
-
-\[
-
-{{< resource uuid="2ab11c8d-669f-0513-8b4f-71aa295fcc9e" >}}
-
-\]({{< baseurl >}}/pages/study-materials/function4view2)   
-Figure 2: Riemann Surface for the function f(z)=log(1-z{{< sup "1/2" >}})
-
- 
-
-To fill the gaps left in the surface after the first construction step described in the prior paragraph, we make use of **the second cut plane**, which has a single cut (on the negative real axis) and corresponds to the case when z=1 is not a branch point. Again, there are infinitely many branches of the function on this cut plane, with their values differing by multiples of 2πi. A view of the resulting typical **"Lego" surface block** is shown on Figure 3. We can now use these blocks to fill in the gaps left in the prior step, by joining the appropriate edges of the cuts on the negative real axis (magenta to magenta and green to green) of the two types of "Lego" blocks we have. Notice that this last step can only be done by going into a fourth dimension (to avoid crossings of the surfaces). Thus the **Riemann Surface for f(z)=log(1-z**{{< sup "1/2" >}}**) is an object in four dimensional space**. We have not attempted to provide a three dimensional projection/view of this surface, but we hope that the description above gives some idea of its structure.
-
-\[
-
-{{< resource uuid="baf9edaa-ebe8-786d-06e7-cc52ce839e21" >}}
-
-\]({{< baseurl >}}/pages/study-materials/function4view3)   
-Figure 3: Surface generated by one of the branches where z=1 is not a branch point of f(z)=log(1-z{{< sup "1/2" >}}).
+\]({{< baseurl >}}/pages/study-materials/squareroot2)     
+Figure 2: Another view of a square root Riemann Surface
