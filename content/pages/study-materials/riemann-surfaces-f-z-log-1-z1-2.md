@@ -11,7 +11,9 @@ uid: 4de21ae0-69e3-5630-5fd5-e87fa733f4cd
 video_metadata:
   youtube_id: null
 ---
-The original: boo
+{{% resource_link 690df9b8-bfac-fbb3-c7bd-4ebb6583ac1c "ProblemSet_6.pdf" %}}
+
+{{< resource uuid="41452dc5-8338-3717-1cae-0ca94593d742" >}}
 
 \[
 
@@ -21,12 +23,5 @@ The original: boo
 
  
 
-And with `href_uuid`:
-
 {{< resource uuid="d76bb2ff-8097-4548-ca14-2acc42d17b0c" href_uuid="756fad96-a8b6-cb78-2c0f-1b8a186d2e8e" >}}
-
-And with `href`:
-
 {{< resource uuid="d76bb2ff-8097-4548-ca14-2acc42d17b0c" href="https://www.mit.edu" >}}
-
-Yay
