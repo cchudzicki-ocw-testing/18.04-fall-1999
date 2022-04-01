@@ -17,5 +17,5 @@ Riemann Surface for f(z)=log(z{{< sup "2" >}}\-1). The picture shows only three 
 
 Picture obtained using the script RiemannSur in the Athena 18.04 MATLAB® Toolkit.
 
-![Figure 1: Riemann Surface of the function f(z)=log(z2-1)](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/riem_log_Z2m1_svH.GIF)  
+{{< resource "2cc6ab83-7d6c-a1e8-5944-9a4dc08c6e06" >}}  
 Figure 1: Riemann Surface of the function f(z)=log(z{{< sup "2" >}}\-1)

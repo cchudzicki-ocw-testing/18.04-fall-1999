@@ -17,6 +17,6 @@ One of the branches used in the construction of the Riemann Surface for (z{{< su
 
 Picture obtained using the script RiemannSur in the Athena 18.04 MATLAB® Toolkit.
 
-![Figure 2: Another Side view of the Riemann Surface for the function f(z)=(z2-1)1/2 ](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/riem_sqrt_Z2m1_s2H.GIF)
+{{< resource "a71ab545-f495-4fd4-2035-68eabcc0cb47" >}}
 
 Figure 2: Another Side view of the Riemann Surface for the function f(z)=(z{{< sup "2" >}}\-1){{< sup "1/2" >}}
