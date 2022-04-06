@@ -16,7 +16,7 @@ In fact, the boundary has a self-similar fractal structure: any piece of it that
 
 (All images created with MATLAB® software)
 
-[{{< resource "3ed42554-fad1-1017-aa47-1b1cd962e42c" >}}]({{< baseurl >}}/pages/study-materials/newton)
+{{< resource uuid="3ed42554-fad1-1017-aa47-1b1cd962e42c" href_uuid="6a099a2d-e914-5174-76d3-1c2ed52e5a36" >}}
 
 Click on picture for more information and an image of higher resolution.
 

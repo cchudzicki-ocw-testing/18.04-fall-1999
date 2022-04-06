@@ -25,5 +25,5 @@ Notice that the only singularity in this surface occurs at the location of the b
 
 {{< sup "**(\\*1)**" >}} **By lower lip and upper lip, we mean here the sides of the cut along the negative real axis that correspond to a negative (respectively, positive) imaginary part.**
 
-[{{< resource "5a595dbf-2ce8-937c-29ed-01a886da7aeb" >}}]({{< baseurl >}}/pages/study-materials/logsurface)  
+{{< resource uuid="5a595dbf-2ce8-937c-29ed-01a886da7aeb" href_uuid="fa961a6f-23da-78f0-e5d0-612e0f304921" >}}  
 Figure 1: Riemann Surface: The Logarithm
