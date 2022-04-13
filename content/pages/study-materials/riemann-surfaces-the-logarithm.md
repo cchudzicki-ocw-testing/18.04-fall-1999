@@ -19,11 +19,11 @@ Click on picture for more information and an image of higher resolution.
 
 Consider a multiple valued function and all it's branches (corresponding to some fixed set of cuts). Think of all these branches as sort of **"Lego" set** with which the surface will be constructed.  {{% resource_link 2f8fa18d-fac0-85df-46c6-ac5303441bc6 "As we pointed out earlier" %}}, these various branches will be linked: when a branch cut is approached and crossed in one of them, the natural continuation of the values of the function will correspond to some other branch. Thus, we can take all the various copies of the cut complex planes on which the branches are defined (as single valued functions) and then "join" them across the cuts according to their correspondences (each "lip" of a cut will go to a different branch). This will then produce a surface on which the function is defined as single valued in a smooth way (no discontinuities anywhere). This surface is the Riemann Surface.
 
-For example, in the **case of the logarithm**, we can start with the complex plane cut along the negative real axis. On this cut plane, the logarithm has infinitely many branches, each differing from the "next" by _2πι_. Thus, if we join all these cut planes (lower lip of the cut{{< sup "**(\\*1)**" >}} in a plane to the upper lip of the cut in the prior plane), what we obtain is the infinite spiral staircase-like surface displayed on the picture.
+For example, in the **case of the logarithm**, we can start with the complex plane cut along the negative real axis. On this cut plane, the logarithm has infinitely many branches, each differing from the "next" by _2πι_. Thus, if we join all these cut planes (lower lip of the cut{{< sup "**(\*1)**" >}} in a plane to the upper lip of the cut in the prior plane), what we obtain is the infinite spiral staircase-like surface displayed on the picture.
 
 Notice that the only singularity in this surface occurs at the location of the branch point. This is a general feature of Riemann Surfaces.
 
-{{< sup "**(\\*1)**" >}} **By lower lip and upper lip, we mean here the sides of the cut along the negative real axis that correspond to a negative (respectively, positive) imaginary part.**
+{{< sup "**(\*1)**" >}} **By lower lip and upper lip, we mean here the sides of the cut along the negative real axis that correspond to a negative (respectively, positive) imaginary part.**
 
 {{< resource uuid="5a595dbf-2ce8-937c-29ed-01a886da7aeb" href_uuid="fa961a6f-23da-78f0-e5d0-612e0f304921" >}}  
 Figure 1: Riemann Surface: The Logarithm
