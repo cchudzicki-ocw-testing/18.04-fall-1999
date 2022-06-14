@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-04-complex-variables-with-applications-fall-1999/433579a8787b458cb8d4dc320b350350_MatLab_Tutorial.pdf
+file: /courses/18-04-complex-variables-with-applications-fall-1999/433579a8787b458cb8d4dc320b350350_MatLab_Tutorial.pdf
 file_type: application/pdf
 learning_resource_types:
 - Tools

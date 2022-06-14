@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-04-complex-variables-with-applications-fall-1999/7051de3ba3589040ca7250791d77c79b_AnsPS_3.pdf
+file: /courses/18-04-complex-variables-with-applications-fall-1999/7051de3ba3589040ca7250791d77c79b_AnsPS_3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Figure 1: Newton''s method of attraction basins for z[exp]3=1. Picture
   obtained using the script NewtonRoots in the Athena 18.04 MatLab Toolkit.'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-04-complex-variables-with-applications-fall-1999/37f191be1d3fcb799210680825a78e83_NewtonCubeRootH.GIF
+file: /courses/18-04-complex-variables-with-applications-fall-1999/37f191be1d3fcb799210680825a78e83_NewtonCubeRootH.GIF
 file_type: image/gif
 image_metadata:
   caption: ''
@@ -19,3 +19,4 @@ uid: 37f191be-1d3f-cb79-9210-680825a78e83
 video_metadata:
   youtube_id: null
 ---
+Figure 1: Newton's method of attraction basins for z[exp]3=1. Picture obtained using the script NewtonRoots in the Athena 18.04 MatLab Toolkit.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-04-complex-variables-with-applications-fall-1999/6e2b7c1a3e291db37bd7365c955b002a_riem_sqrt_Z_bvH.GIF
+file: /courses/18-04-complex-variables-with-applications-fall-1999/6e2b7c1a3e291db37bd7365c955b002a_riem_sqrt_Z_bvH.GIF
 file_type: image/gif
 image_metadata:
   caption: ''
