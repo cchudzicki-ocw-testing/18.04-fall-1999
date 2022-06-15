@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a MATLAB tutorial and information on the MATLAB
+  scripts used for the course.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
